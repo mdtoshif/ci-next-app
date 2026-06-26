@@ -8,7 +8,7 @@ export default async function Home() {
     <div>
       Name Goes By-:-
       {user?.username}
-      Password is-:-
+      -:-Password is-:-
       {user?.password}
     </div>
   );
