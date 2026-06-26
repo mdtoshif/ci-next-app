@@ -8,8 +8,9 @@ export default async function Home() {
     <div>
       HAAN BHAI RAMZAN
       {user?.username}
-    </div>
+      <div>
       BHABHI KAISI HAIIIII 
+        </div>
       {user?.password}
     </div>
   );
